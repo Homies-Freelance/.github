@@ -46,9 +46,7 @@ Are you a developer looking for a meritocratic environment? We are scaling our o
 - **The Stack:** We need proficiency in `React`, `Node.js`, `Python`, or `DevOps`.
 - **The Workflow:** Async, Git-heavy, and high autonomy.
 
-> [!WARNING]
-> **Developers Only**
-> [**Click here to join our Discord**](https://discord.gg/aMbEGg9bKn) to introduce yourself and view open tickets.
+> [!WARNING] > **Developers Only** > [**Click here to join our Discord**](https://discord.gg/aMbEGg9bKn) to introduce yourself and view open tickets.
 >
 > _Note: This channel is for team recruitment only. Client inquiries found here will be redirected to the hiring platform._
 
@@ -73,14 +71,14 @@ To maintain platform compliance and security:
 
 <div align="left">
   <a href="https://github.com/aditsuru-git">
-    <img src="https://github.com/aditsuru.png?size=96" width="60" align="left" alt="@aditsuru-git" style="margin-right: 15px; border-radius: 50%" />
+    <img src="https://github.com/aditsuru.png?size=96" width="90" align="left" alt="@aditsuru-git" style="margin-right: 20px" />
   </a>
 
-  <h4>
+  <h3>
     Managed by <a href="https://github.com/aditsuru">@aditsuru</a>
-  </h4>
+  </h3>
   <p>
-    Lead Operations & Infrastructure
+    Maintainer • Mentor • Organizer — keeping the Homies community running and building.
   </p>
   <br clear="left" />
 </div>
