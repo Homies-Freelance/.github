@@ -46,7 +46,11 @@ Are you a developer looking for a meritocratic environment? We are scaling our o
 - **The Stack:** We need proficiency in `React`, `Node.js`, `Python`, or `DevOps`.
 - **The Workflow:** Async, Git-heavy, and high autonomy.
 
-> [!WARNING] > **Developers Only** > [**Click here to join our Discord**](https://discord.gg/aMbEGg9bKn) to introduce yourself and view open tickets.
+> [!WARNING]
+>
+> **Developers Only**
+>
+> [**Click here to join our Discord**](https://discord.gg/aMbEGg9bKn) to introduce yourself and view open tickets.
 >
 > _Note: This channel is for team recruitment only. Client inquiries found here will be redirected to the hiring platform._
 
