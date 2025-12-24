@@ -82,7 +82,7 @@ To maintain platform compliance and security:
     Managed by <a href="https://github.com/aditsuru">@aditsuru</a>
   </h3>
   <p>
-    Maintainer • Mentor • Organizer — keeping the Homies community running and building.
+    Lead Operations & Infrastructure
   </p>
   <br clear="left" />
 </div>
